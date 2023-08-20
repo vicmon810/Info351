@@ -22,16 +22,16 @@ Regarding the room style, we've brainstormed several ideas and possibilities, in
    <img src="image/download.jpeg" alt="FD" width="400" height="300">
  - ## Maximalism: The control room style will embrace complexity and a wealth of buttons and features, creating a visually rich and intricate design.
    <!-- ![dashboard](desktop-wallpaper-space-shuttle-cockpit-spaceship-cockpit.jpg) -->
-    <img src="../Info351/image/desktop-wallpaper-space-shuttle-cockpit-spaceship-cockpit.jpg" alt="FD" width="400" height="300">
+    <img src="image/desktop-wallpaper-space-shuttle-cockpit-spaceship-cockpit.jpg" alt="FD" width="400" height="300">
  - ## Futurism: The control room style will embody a futuristic and avant-garde aesthetic, featuring sleek, high-tech designs, and innovative interface elements that convey a sense of forward-looking technology.
    <!-- ![dashboard](images.jpeg) -->
-    <img src="../Info351/image/images.jpeg" alt="FD" width="400" height="300">
+    <img src="image/images.jpeg" alt="FD" width="400" height="300">
 
 # Destination
  - ## Start(moon base) :  <br>   <img src="../Info351/image/moon.webp" alt="Moon" width="400" height="300">
-- ## Mar :     <br> <img src="../Info351/image/mar.jpeg" alt="Mar" width="400" height="300">
-- ## Titan:    <br> <img src="../Info351/image/titan.jpeg" alt="Titan" width="400" height="300">
-- ## Saturn:    <br><img src="../Info351/image/Saturn.jpeg" alt="Saturn" width="400" height="300">
+- ## Mar :     <br> <img src="image/mar.jpeg" alt="Mar" width="400" height="300">
+- ## Titan:    <br> <img src="image/titan.jpeg" alt="Titan" width="400" height="300">
+- ## Saturn:    <br><img src="image/Saturn.jpeg" alt="Saturn" width="400" height="300">
 
 # Plan: 
   - ## Stage one:(21/Aug - 25/Aug ):
@@ -66,14 +66,14 @@ In the past few weeks, our main objective has been to acquaint ourselves with va
 
 In order to make a panoramic, I need to take a lot of photos.
 
-![Raw images](../Info351/image/raw_images.png)
+![Raw images](image/raw_images.png)
 
 then I need to use the Image Composite Editor to stitch those image, After few steps I got a panoramic image that looks like this.
-![stitch image](../Info351/image/stitch.jpg)
+![stitch image](image/stitch.jpg)
 
 After I have stitch image, it's time for me to create a real skybox project. In the end my project looks like this: 
 
-![project](../Info351/image/project1.png)
+![project](image/project1.png)
 
 ### Review<br>
 
