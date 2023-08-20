@@ -3,8 +3,8 @@
 
 # Weekly Blog 
 
-* [week 2](#WEEK_2)
-* [Week 1](#WEEK_1)
+* [week 2](#week_2aug7---aug21)
+* [Week 1](#week_1-jul10---aug6)
 
 ## WEEK_2(Aug/7 - Aug/21)
 # What Happened:
@@ -59,6 +59,43 @@ Regarding the room style, we've brainstormed several ideas and possibilities, in
       I pick the topic that are relate to tracking system. The question are : "`What are common tracking technologies to measure the position and orientation of a display device (e.g. HMD, mobile phone) in indoor and outdoor spaces. Compare range, accuracy, precision, and application scenarios.`" 
   - ## Starting Point: <br>
       In today's modern landscape, tracking technologies have become indispensable, finding extensive utility across diverse fields such as mapping, navigation, and the operation of autonomous vehicles. The Global Positioning System (GPS), a renowned tracking technology, relies on a trio of fundamental components: the 'space segment,' the 'control segment,' and the 'user segment.' Together, these constituents empower GPS to deliver remarkably precise location information anywhere on Earth.<br>Another notable example of tracking technology is exemplified by Tesla's Autopilot system. This system harnesses advanced cameras and artificial intelligence (AI) to detect and identify a wide array of objects on the road. It processes this data in real-time to make instantaneous decisions and responses, significantly enhancing vehicle safety and autonomy.
+
+# What we learn: 
+  - Empathic Computing(Mark Billinghurst):
+    - Sharing Viewpoints
+      - Remote Collaboration 
+    - Environment Capture
+      - Shared Sphere – 360 Video Sharing 
+      - Multi-Scale Collaboration
+      - Mini-Me
+    - Emotion Recognition
+    - Empathic Tele-Existence
+      - Brain Synchronization
+  - AUGMENTED HUMAN LAB(Suranga, Nanayakkara)
+    - ASSISTIVE AUGMENTATIONS
+      - Integrate
+      - Enhance
+      - Understand
+  - Multi-sensory XR Experiences(Rob Lindeman)
+    - Multi-sensory XR
+    - Applied Games
+    - Long-term Immersion
+  - VR/AR Applications(Bruce Thomas, Mark Billinghurst):
+    - Healthcare
+    - Entertainment
+    - Manufacturing
+    - Education
+    - Charity
+    - Sporting
+    - Military
+    - Travel
+  - eXtended Reality for Sports(Stefanie Zollmann):
+    - XR Sport
+    - Sport broadcasting
+      - Snow sport tracking
+      - Cricket Ball Tracking
+      - on-site spectator
+
 
 ## WEEK_1 (Jul/10 - Aug/6)
 
