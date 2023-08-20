@@ -28,7 +28,7 @@ Regarding the room style, we've brainstormed several ideas and possibilities, in
     <img src="image/images.jpeg" alt="FD" width="400" height="300">
 
 # Destination
- - ## Start(moon base) :  <br>   <img src="../Info351/image/moon.webp" alt="Moon" width="400" height="300">
+ - ## Start(moon base) :  <br>   <img src="image/moon.webp" alt="Moon" width="400" height="300">
 - ## Mar :     <br> <img src="image/mar.jpeg" alt="Mar" width="400" height="300">
 - ## Titan:    <br> <img src="image/titan.jpeg" alt="Titan" width="400" height="300">
 - ## Saturn:    <br><img src="image/Saturn.jpeg" alt="Saturn" width="400" height="300">
@@ -57,7 +57,8 @@ Regarding the room style, we've brainstormed several ideas and possibilities, in
       Each of student will pick a topic relate on VR/AR technic and do a speech last 30 minutes. Each of us will need to prepare our slides and five question that will be used on our oral final exams in end of this semester. 
   - ## My Topic : <br>
       I pick the topic that are relate to tracking system. The question are : "`What are common tracking technologies to measure the position and orientation of a display device (e.g. HMD, mobile phone) in indoor and outdoor spaces. Compare range, accuracy, precision, and application scenarios.`" 
-  - ## Starting Point: <br> In today's modern landscape, tracking technologies have become indispensable, finding extensive utility across diverse fields such as mapping, navigation, and the operation of autonomous vehicles. The Global Positioning System (GPS), a renowned tracking technology, relies on a trio of fundamental components: the 'space segment,' the 'control segment,' and the 'user segment.' Together, these constituents empower GPS to deliver remarkably precise location information anywhere on Earth.<br>Another notable example of tracking technology is exemplified by Tesla's Autopilot system. This system harnesses advanced cameras and artificial intelligence (AI) to detect and identify a wide array of objects on the road. It processes this data in real-time to make instantaneous decisions and responses, significantly enhancing vehicle safety and autonomy.
+  - ## Starting Point: <br>
+      In today's modern landscape, tracking technologies have become indispensable, finding extensive utility across diverse fields such as mapping, navigation, and the operation of autonomous vehicles. The Global Positioning System (GPS), a renowned tracking technology, relies on a trio of fundamental components: the 'space segment,' the 'control segment,' and the 'user segment.' Together, these constituents empower GPS to deliver remarkably precise location information anywhere on Earth.<br>Another notable example of tracking technology is exemplified by Tesla's Autopilot system. This system harnesses advanced cameras and artificial intelligence (AI) to detect and identify a wide array of objects on the road. It processes this data in real-time to make instantaneous decisions and responses, significantly enhancing vehicle safety and autonomy.
 
 ## WEEK_1 (Jul/10 - Aug/6)
 
