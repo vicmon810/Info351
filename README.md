@@ -19,7 +19,7 @@ Regarding the room style, we've brainstormed several ideas and possibilities, in
 # possible dashboard:  
  - ## Minimalism: The control room style will emphasize simplicity and clean design, with a focus on essential functions and a clutter-free interface.
    <!-- ![dashboard](download.jpeg) -->
-   <img src="../Info351/image/download.jpeg" alt="FD" width="400" height="300">
+   <img src="../image/download.jpeg" alt="FD" width="400" height="300">
  - ## Maximalism: The control room style will embrace complexity and a wealth of buttons and features, creating a visually rich and intricate design.
    <!-- ![dashboard](desktop-wallpaper-space-shuttle-cockpit-spaceship-cockpit.jpg) -->
     <img src="../Info351/image/desktop-wallpaper-space-shuttle-cockpit-spaceship-cockpit.jpg" alt="FD" width="400" height="300">
