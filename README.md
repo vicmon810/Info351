@@ -23,6 +23,13 @@ Wu had some experience of 3D photogrammetry, which is transfer 2D image to 3D mo
 
 - Fixed Perspective: Maintain a consistent height and angle for the camera throughout the capture process
 
+## Student lecture prepare: 
+Topic should include :  
+- GPS: why we not using GPS in VR/AR systems
+- Inertial Measuring Unit(IMU): what is IMU? why this IMU so important?
+- Outside-in motion capture for HMD's: what is it? 
+- inside-out tracking fir HMDs: what is the different outside-int motion capture ?
+
 
 ## WEEK_2(Aug/7 - Aug/21)
 # What Happened:
