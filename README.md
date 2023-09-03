@@ -3,9 +3,30 @@
 
 # Weekly Blog 
 
+* [Week 4](#week_4sep5---sep18)
 * [Week 3](#week_3aug22---sep4) 
 * [week 2](#week_2aug7---aug21)
 * [Week 1](#week_1jul10---aug6)
+
+
+## WEEK_4(Sep/5 - Sep/18)
+Student lecture research: 
+- Inertial Measuring Unit (IMU): IMU is an electronic device that measure and reports body's specific force, angular rate, and sometime the orientation of the body, using combination of accelerometers, gyroscopes and somite magnetometers.<br> 
+<img src="image/Apollo_Inertial_Measurement_Unit.png" alt="IMU" width="400" height="300">
+  
+- Simultaneous localization and mapping(SLAM): SLAM is the computational problem of constructing or updating a map of an unknow enviroment while simultaneously keeping track of an angent's location wihtin it.<br>
+<img src="img/../image/1600px-Ouster_OS1-64_lidar_point_cloud_of_intersection_of_Folsom_and_Dore_St,_San_Francisco.png" alt="SLAM" width ="400" height="300">
+  
+- Outside-in motion capture for HMD’s: In outside-in systems multiple fixed external cameras are used to track the pose (3D position and 3D orientation) of the HMD. In particular, the external cameras track a set of reference points located on the headset and on the controllers (if any)
+
+- Inside-out tracking for HMD's : Inside-Out tracking is a method of positional tracking commonly used in XR technologies, specifically for tracking the position of head-mounted displays (HMDs) and motion controller accessories.
+- 
+# Source : 
+[Inertial Measuring Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit)<br>
+[Real-Time Motion Tracking for Mobile Augmented/Virtual Reality Using Adaptive Visual-Inertial Fusion](https://www.mdpi.com/1424-8220/17/5/1037)<br>
+[ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual–Inertial, and Multimap SLAM](https://ieeexplore.ieee.org/abstract/document/9440682)
+[Evaluation of the Oculus Rift S tracking system in room scale virtual reality](https://link.springer.com/article/10.1007/s10055-022-00637-3#:~:text=In%20outside%2Din%20systems%20multiple,the%20controllers%20(if%20any).)
+[Inside-out tracking](https://xrsi.org/definition/inside-out-tracking#:~:text=Inside%2DOut%20tracking%20is%20a,HMDs)%20and%20motion%20controller%20accessories.)
 
 ## WEEK_3(Aug/22 - Sep/4)
 
@@ -28,7 +49,7 @@ Topic should include :
 - GPS: why we not using GPS in VR/AR systems
 - Inertial Measuring Unit(IMU): what is IMU? why this IMU so important?
 - Outside-in motion capture for HMD's: what is it? 
-- inside-out tracking fir HMDs: what is the different outside-int motion capture ?
+- inside-out tracking for HMDs: what is the different outside-int motion capture ?
 
 
 ## WEEK_2(Aug/7 - Aug/21)
