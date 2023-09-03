@@ -3,9 +3,9 @@
 
 # Weekly Blog 
 
-* [Week 3](#week_3 aug22---sep4) 
-* [week 2](#week_2 aug7---aug21)
-* [Week 1](#week_1 jul10---aug6)
+* [Week 3](#week_3aug22---sep4) 
+* [week 2](#week_2aug7---aug21)
+* [Week 1](#week_1jul10---aug6)
 
 ## WEEK_3(Aug/22 - Sep/4)
 
