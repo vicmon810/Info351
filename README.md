@@ -3,8 +3,26 @@
 
 # Weekly Blog 
 
-* [week 2](#week_2aug7---aug21)
-* [Week 1](#week_1-jul10---aug6)
+* [Week 3](#week_3 aug22---sep4) 
+* [week 2](#week_2 aug7---aug21)
+* [Week 1](#week_1 jul10---aug6)
+
+## WEEK_3(Aug/22 - Sep/4)
+
+# What happened: 
+Wu had some experience of 3D photogrammetry, which is transfer 2D image to 3D models. In order to make a 3D models we to take good image of the object we'd like to create 3D models, which should include basics  factory:
+- Quality Camera: Utilize a high-quality camera with manual settings to capture fine details.
+
+- Stability: Securely mount the camera on a stable platform to minimize vibrations and ensure sharp images.
+
+- Lighting: Ensure even and diffused lighting to avoid harsh shadows or overexposed areas.
+
+- Consistent Exposure: Keep exposure settings uniform throughout the entire photoshoot.
+
+- Overlap: Aim for an overlap of approximately 25% to 50% between each photo. This provides enough common features for photogrammetry software to match and stitch images together.
+
+- Fixed Perspective: Maintain a consistent height and angle for the camera throughout the capture process
+
 
 ## WEEK_2(Aug/7 - Aug/21)
 # What Happened:
