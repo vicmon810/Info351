@@ -10,10 +10,19 @@
 
 
 ## WEEK_4(Sep/5 - Sep/18)
+# Coming Weeks plan: 
+### Must-Have: 
+- Virtual Objects interaction: Create vertical button can be interacted with it.
+- Texture feature apply
+### Should-Have
+- Actual Objects interaction
+- skybox changes: environment changes by time (day and night)
+## Could-Have: 
+-  Indoor lighting 
+-  Outdoor environment changes 
 # Project Ongoing : 
 
 ### Must-Have: 
-
 - 3D modeling (Done): This is considered essential and has been completed.
  
 <img src="img/../image/sci-fi_room.png" alt="develop" ><br>
