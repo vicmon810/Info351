@@ -3,13 +3,79 @@
 
 # Weekly Blog 
 
+* [Week 5](#week_5sep18---oct2)
 * [Week 4](#week_4sep5---sep18)
 * [Week 3](#week_3aug22---sep4) 
 * [week 2](#week_2aug7---aug21)
 * [Week 1](#week_1jul10---aug6)
 
+## WEEK_5(Sep/18 - Oct/2)
 
-## WEEK_4(Sep/5 - Sep/18)
+## Current Project update: 
+<img src="img/../image/Overview.PNG" alt="Overview" ><br>
+<img src="img/../image/over_view2.PNG" alt="Overview" ><br>
+### Over view
+<img src="img/../image/game_view.PNG" alt="game_view" ><br>
+### Game view
+
+# What Have I done: 
+- &#x274C; Virtual Objects 
+- &#x2705; Texture feature apply 
+- &#x2705; Skybox Changes 
+- &#x2705; Indoor lighting 
+- &#x2705; Outdoor environment changes  
+- &#x2705; Simulation of weightlessness in space 
+
+- Virtual Objects
+Unfortunately, I had to abandon the virtual objects feature for now. It posed some technical challenges that needed more time to address properly.
+
+- Texture Feature Applied
+I successfully implemented a texture feature that enhances the visual quality of our project. Textures can add depth and realism to our 3D environment.
+
+- Skybox Changes
+Skyboxes play a crucial role in setting the ambiance of our scene. I've made some exciting changes to the skybox, creating different moods and atmospheres.
+
+- Indoor Lighting
+Indoor scenes now have improved lighting. Proper lighting is essential for creating a realistic and immersive environment.
+
+- Outdoor Environment Changes
+The outdoor environment has also seen significant improvements. This includes terrain modifications, vegetation, and better integration with the skybox.
+
+- Simulation of Weightlessness in Space
+One of the highlights of our project is the realistic simulation of weightlessness in space. Objects now float and move as they would in a zero-gravity environment.
+
+# How to create Simulation of weightlessness in space: 
+
+## Code overview: 
+<img src="img/../image/code.PNG" alt="game_view" ><br>
+
+## Code Explanation:
+In the code responsible for simulating weightlessness, we use the following line as the core of the script: `transform.Rotate(_rotation * Time.deltaTime);`
+  - `transform: Represents the transform component of the GameObject, which includes its position, rotation, and scale.`
+  - `Rotate(): A method of the transform component used to apply a rotation.`
+
+## Current plan: 
+### Problems : 
+Despite our progress, we've encountered a couple of challenges:
+- 3D Environment View: When exporting the project to a new environment, we've faced issues with the 3D environment view not displaying correctly. We are actively investigating and working on solutions for this problem.
+- Scale Correction: We've identified that the scale of our objects is currently too large. We plan to re-correct the scale to ensure a more realistic representation.
+
+
+## Coming plan: 
+### Must have: 
+- Landing Space: We are working on implementing a landing space and figuring out how to transition the view from the control room to this landing area. This will also involve changes to the skybox to match the new environment.
+<img src="img/../image/landing.PNG" alt="game_view" ><br>
+
+- Door Opening Animation (Virtual): We're considering adding an animation for the door opening, enhancing the immersive experience. Alternatively, we may implement a one-button transfer mechanism for ease of use.
+### Should Have: 
+- We plan to introduce sound effects to the project to further immerse users. The type of sounds we'll use is still under consideration.
+- Skybox Changes Button: We aim to provide users with the ability to change the skybox through a button interaction, giving them more control over the environment.
+### Could have: 
+- Real Object Alignments: If time allows, we may explore aligning virtual objects with real-world objects for a more seamless integration of the virtual and physical spaces.
+
+In conclusion, our project is progressing well, but we are actively addressing some challenges and planning exciting features to enhance the experience. Stay tuned for further updates!
+
+## WEEK_4(Sep/5 - Sep/17)
 # Coming Weeks plan: 
 ### Must-Have: 
 - Virtual Objects interaction: Create vertical button can be interacted with it.
