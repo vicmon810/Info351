@@ -3,12 +3,77 @@
 
 # Weekly Blog 
 
+* [Week 6](#week_6oct3---oct15)
 * [Week 5](#week_5sep18---oct2)
 * [Week 4](#week_4sep5---sep18)
 * [Week 3](#week_3aug22---sep4) 
 * [week 2](#week_2aug7---aug21)
 * [Week 1](#week_1jul10---aug6)
 
+
+## Week6(Oct/3 - Oct/15)
+
+## Project View
+![Game view 1](img/../image/Game_view1.PNG)
+![Game View 2](img/../image/Game_vew2.PNG)
+
+## Development Screenshots
+![Overview](img/../image/Sense_1.PNG)
+![Overview](img/../image/Sense_2.PNG)
+![Overview](img/../image/Sense_setup.PNG)
+
+In the development phase, I focused on creating an immersive and interactive environment. The images above showcase the progress made in designing the user interface and setting up the scene. 
+
+
+## Project Achievements
+
+- ✅ **Rough Project Completion**: I successfully completed the project, meeting the initial objectives.
+- ✅ **Interaction Objects**: I implemented interaction objects within the Unity environment to enhance the user experience.
+- ✅ **Switchable Senses**: Users can seamlessly switch between two senses at any time during the experience.
+- ✅ **Completion on Schedule**: I managed to finish the project on time as planned.
+
+## Areas for Improvement
+
+While I achieved the primary objectives of the project, there are some areas where I could have done better:
+
+- ❌ **Time Management**: I could have improved my time management skills to allocate more time to certain aspects of the project.
+- ❌ **Team Collaboration**: In future projects, collaborating with a team could lead to more innovative ideas and efficient execution.
+
+# Code view: 
+<img src="img/../image/camera_change.PNG" alt="Overview" ><br>
+This script in Unity allows for toggling between two cameras in a scene. It features two public camera GameObjects, "mainCamera" and "lunraCamera," and an integer "Manager" to keep track of the currently active camera.
+
+The "ChangeCamera" function triggers a camera-switching animation, providing a smooth transition between the two cameras.
+
+The "ManageCamera" function alternates between the cameras based on the "Manager" value. If "Manager" is 0, it activates "lunraCamera" and sets "Manager" to 1. Otherwise, it activates "mainCamera" and sets "Manager" to 0.
+
+Two helper functions, "Cam_1" and "Cam_2," enable or disable the respective cameras based on their names.
+
+In summary, this script facilitates camera switching in Unity, making it easy to transition between "mainCamera" and "lunraCamera" with a simple function call.
+
+
+
+<img src="img/../image/Gun_code.PNG" alt="Overview" ><br>
+This script in Unity is designed to fire bullets from a designated spawn point when an XR grab interaction is activated. It listens for the "activated" event on the XRGrabInteractable component attached to the GameObject.
+
+When the "activated" event occurs, the "OnActivated" method is called, which in turn triggers the "FireBullet" method. This method instantiates a bullet object at the specified spawn point and gives it an initial velocity in the forward direction. The bullet is then set to self-destruct after 5 seconds.
+
+This script is a fundamental part of implementing interactive shooting mechanics in a Unity XR project, making it possible for users to shoot bullets from a handheld object when they activate it.
+
+
+
+# Feature Plan: 
+This project is currently a work in progress and requires additional development to transform it into a fully polished game. The aim is to add various features to make it a more engaging and playable experience for users. The following requirements and enhancements are planned:
+-  First Person to Third Person View Switch:
+Implement the ability for players to seamlessly switch between first-person and third-person perspectives. This feature enhances gameplay and immersion.
+-  Winning Condition
+Introduce a winning condition or objective that players must achieve to complete the game. For example, surviving for a certain duration, completing specific tasks, or reaching a particular goal.
+- Improved Weapon System
+Enhance the weapon system to provide players with a more satisfying and interactive shooting experience. This may include better weapon handling, varied weapon types, and realistic ballistics.
+- Non-Player Characters (NPCs)
+Introduce non-player characters (NPCs) to the game world to add depth and challenges. NPCs can be allies, enemies, or neutral characters, contributing to a richer gameplay experience.
+- Expanded Control Room Functionality
+Expand the functionality of control rooms within the game. These control rooms may include interactive elements, puzzles, or management tasks that players must engage with to progress through the game.
 ## WEEK_5(Sep/18 - Oct/2)
 
 ## Current Project update: 
